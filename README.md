@@ -35,4 +35,8 @@
  program for valid number
  program for party in a cruise
  program to replace characters by alphabet
+ program to find the number of student users in a college
+ program to delete a character from a sentence
+ program for finding given strings are scramble string or not
+ 
  
