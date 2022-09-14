@@ -15,10 +15,9 @@ class Solution:
        for i in range(len(sequence)//2):
            if sequence[i] != sequence[len(sequence)-1-i]:
                return False
-       return True
-  
+       return True  
 if __name__ == '__main__':
-   string = 'race a car'
-   print(f'Is "{string}" a palindrome? : {Solution().isPalindrome(string)}')
-   string2 = 'A man, a plan,'
-   print(f'Is "{string2}" a palindrome? : {Solution().isPalindrome(string2)}')
+   string1 = (input("enter the first string:"))
+   print(f'Is "{string1}" a palindrome? : {Solution().isPalindrome(string1)}')
+   
+
