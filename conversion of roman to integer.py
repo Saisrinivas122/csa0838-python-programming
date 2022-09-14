@@ -8,5 +8,5 @@ class py_solution:
             else:
                 int_val += rom_val[s[i]]
         return int_val
-
-print(py_solution().roman_to_int('MCMXCIV'))
+num = input("enter the roman number:")
+print(py_solution().roman_to_int(num))
