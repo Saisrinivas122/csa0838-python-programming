@@ -41,6 +41,6 @@
  program to find numbers that are smaller than current numbers
  program to find given phrase is palindrome or not
  program to return a string array
- 
+ program for deleting a character in a word using function
  
  
