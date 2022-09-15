@@ -42,5 +42,10 @@
  program to find given phrase is palindrome or not
  program to return a string array
  program for deleting a character in a word using function
- 
+ program for product is divisible by sum .py
+ program to calculate length of last word.py
+ program to find longest substring.py
+ program to findsalary for new year.py
+ program to shuffle numbers.py
+ program to reversing words in a string.py
  
