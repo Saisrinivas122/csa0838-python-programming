@@ -52,3 +52,9 @@
  51.program to represent a peak element in a array
  52.program to print a triangular array of the binomial coefficient
  53.program to minimize the no.of swaps to form a valid chess board
+ 54.program to generate a fibonacci series
+ 55.program to generate a fibonacci series using recursion
+ 56.program to find factorial using recursion
+ 57.program to verify the given number is odd or even
+ 58.program to print the words in alphabetical order
+ 59.program to find number of vowels in a string
