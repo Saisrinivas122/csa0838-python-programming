@@ -48,4 +48,7 @@
  47.program to findsalary for new year.py
  48.program to shuffle numbers.py
  49.program to reversing words in a string.py
- 
+ 50.program to return the least number of perfect square numbers
+ 51.program to represent a peak element in a array
+ 52.program to print a triangular array of the binomial coefficient
+ 53.program to minimize the no.of swaps to form a valid chess board
